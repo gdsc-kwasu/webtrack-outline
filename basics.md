@@ -1,1 +1,18 @@
 ## Introduction: The Genesis.
+- Ethics, and Mindset of a Developer
+- Basic Introduction to Networking
+  - TCP/IP, What is an IP address?
+  - IPv4 and IPv6
+  - Domain name service (DNS)
+  - HTTP/s
+  - Client-Server relationship
+- Data Types and Algorithms
+- Introduction to the Command Line (CLI)
+- Git version control system
+  - What is, and why a VCS?
+  - Git Basics
+  - Git Workflow
+  - Git Branching
+  - Github and Bitbucket
+- Text Editors and IDEs
+- Programming Fundamentals

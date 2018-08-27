@@ -1,1 +1,57 @@
 ## Front-End Outline
+- What is Front-end development.
+- Introduction to HTML
+  - History and future of HTML
+  - Basic Page structure
+  - It's just all about **Tags** and **Attributes**
+  - The head, meta and title Tags
+  - The body and children Tags
+  - Using Emmet to write Markup faster
+  - HTML Forms
+  - HTML5 and its APIs
+  - Modernizer
+  - Let us Build a Login/Register Page
+- Introduction to CSS
+  - Life is by Design
+  - Different ways to apply CSS to a HTML document
+  - CSS structure
+  - Units, Measurements, and Colors
+  - Understanding the Box Model
+  - Let's add some colors to our Login/Register Page
+  - Structuring a page with Flexbox
+  - Structuring a page with Float
+  - CSS Transitions, Animations
+  - Optimizing CSS Files for production
+- Basic Introduction to SASS
+  -  What is, and Why a Preprocessor
+  -  Structuring your sass files
+  -  Basics of SASS
+  -  Using Gulp for task automation
+- Intro to Javascript Language
+  -  Note on Programming
+  -  Introduction to Javascript
+  -  Syntax, Data Types and Operators
+  -  Program Structure
+  -  Loops
+  -  Functions
+  -  Conditional Flow
+  -  Arrays and String Data Types
+  -  Functions in-depth
+  -  Basic Introduction to Object
+  -  Exception: Bugs and Errors
+  -  Regular Expressions
+  -  Modules: Let's build a simple Module
+  -  Async programming with Javascript
+  -  Javascript in the Browser
+  -  Working with the DOM
+  -  Event is all that matters
+  -  Handling HTTP Request
+  -  Forms: Working with Forms
+  -  Common Browsers API
+- Node.js and NPM
+  - What is Node.js and why should I care?
+  - Node Package Manager
+  - Installing and Using Node Packages
+  - Dependency and Package Dependency
+  - Version: Package version
+  - Publishing and Updating Packages
